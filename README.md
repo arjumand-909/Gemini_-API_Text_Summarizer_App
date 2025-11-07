@@ -1,4 +1,3 @@
-https://colab.research.google.com/drive/1Djnq6MgwaaujuIQ972Q4DdY9aGv1YB05?usp=sharing
 
 
 
@@ -6,7 +5,8 @@ https://colab.research.google.com/drive/1Djnq6MgwaaujuIQ972Q4DdY9aGv1YB05?usp=sh
 
 
 
-# 📘 ** – Gemini-Powered Text Summarizer & PDF Generator**
+
+# 📘  – Gemini-Powered Text Summarizer & PDF Generator:-
 
 ## 🧠 Overview
 
